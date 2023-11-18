@@ -31,12 +31,12 @@
 |Конфигурация как код	|:white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
 |Шаблоны	|:white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
 |Сети	|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
-|Возможность обнаружения сервисов|	✓✓✓|	✓	|✓✓✓|	✓✓	|✓✓✓|
-|Автомасштабирование|	✓	|✓✓	|✓✓	|✓	|✓✓✓|
-|Выполнение обновлений и отката	|✓✓	|✓✓✓	|✓✓✓	|✓	|✓✓✓|
-|Отказоустойчивость|	✓✓✓|	✓✓✓|	✓✓✓|	✓✓✓|	✓✓✓|
-|Мониторинг	|✓✓	|✓✓✓	|✓✓|	✓	|✓✓✓|
-|Безопасность	|✓✓|	✓✓	|✓✓|	✓|	✓✓✓|
+|Возможность обнаружения сервисов|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
+|Автомасштабирование|:white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
+|Выполнение обновлений и отката	|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:	|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
+|Отказоустойчивость|:white_check_mark::white_check_mark::white_check_mark:|	:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
+|Мониторинг	|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
+|Безопасность	|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
 
 - Kubernetes поддерживает разные системы контейнеризации.
 - Kubernetes DNS. Каждому сервису, созданному с помощью объекта service присваивается доменное имя совпадающее с именем самого сервиса. Маршрутизация происходит через kube-proxy и virtual ip.
