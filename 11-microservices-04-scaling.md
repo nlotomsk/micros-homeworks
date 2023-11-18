@@ -23,14 +23,14 @@
 |Критерий/Оркестратор|	Docker Swarm | Nomad	| Apache Mesos	| Fleet |	K8s |
 |--------------------|:-------------:|:------:|:-------------:|:-----:|:---:|
 |Типы рабочих нагрузок|:white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|
-|Легкость установки и исходной настройки (вручную)|	✓✓✓|	✓✓✓|	✓✓|	✓✓✓|	✓|
-|Легкость администрирования кластеров	|✓✓	|✓✓	|✓✓	|✓✓|	✓✓✓|
-|Требования к платформе для развертывания|	✓✓✓|	✓✓✓|	✓✓✓|	✓	|✓✓|
-|Производительность	|✓✓✓	|✓✓✓	|✓✓✓	|✓✓✓	|✓✓|
-|Ограничения на количество узлов и контейнеров в кластере|	✓✓|	✓✓✓|	✓✓✓|	✓|	✓✓|
-|Конфигурация как код	|✓✓	|✓	|✓✓	|✓	|✓✓✓|
-|Шаблоны	|✓	|✓	|✓✓|	✓✓|	✓✓✓|
-|Сети	|✓✓	|✓✓	|✓✓	|✓	|✓✓✓|
+|Легкость установки и исходной настройки (вручную)|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|	:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark:|
+|Легкость администрирования кластеров	|:white_check_mark::white_check_mark:	|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
+|Требования к платформе для развертывания|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark:|
+|Производительность	|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|
+|Ограничения на количество узлов и контейнеров в кластере|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark:|
+|Конфигурация как код	|:white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
+|Шаблоны	|:white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
+|Сети	|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|
 |Возможность обнаружения сервисов|	✓✓✓|	✓	|✓✓✓|	✓✓	|✓✓✓|
 |Автомасштабирование|	✓	|✓✓	|✓✓	|✓	|✓✓✓|
 |Выполнение обновлений и отката	|✓✓	|✓✓✓	|✓✓✓	|✓	|✓✓✓|
