@@ -22,7 +22,7 @@
 
 |Критерий/Оркестратор|	Docker Swarm | Nomad	| Apache Mesos	| Fleet |	K8s |
 |--------------------|:-------------:|:------:|:-------------:|:-----:|:---:|
-|Типы рабочих нагрузок|:white_check_mark:|	✓✓✓|	✓✓✓|	✓✓|	✓✓|
+|Типы рабочих нагрузок|:white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|:white_check_mark::white_check_mark:|
 |Легкость установки и исходной настройки (вручную)|	✓✓✓|	✓✓✓|	✓✓|	✓✓✓|	✓|
 |Легкость администрирования кластеров	|✓✓	|✓✓	|✓✓	|✓✓|	✓✓✓|
 |Требования к платформе для развертывания|	✓✓✓|	✓✓✓|	✓✓✓|	✓	|✓✓|
